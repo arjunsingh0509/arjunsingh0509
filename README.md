@@ -1,5 +1,5 @@
 # 💫 About Me:
-Create a professional and attractive GitHub profile README for a developer with the following details:<br><br>Name: Arjun Singh  <br>Username: arjunsingh0509  <br>Skills: Python, Java , C, HTML & CSS <br>Repositories: Python-Codes, Java-Beginner  <br><br>Requirements:<br>- Write a short and engaging introduction<br>- Include a “About Me” section<br>- Mention current learning goals (improving Java and Python skills)<br>- Add a “Tech Stack” section with icons or badges<br>- Include GitHub stats (use placeholders)<br>- Add a section for projects (briefly describe the two repos)<br>- Include a contact section (leave placeholders for email/LinkedIn)<br>- Keep it clean, modern, and beginner-friendly but professional<br>- Use emojis moderately for readability<br>- Format in proper Markdown<br><br>Tone: Motivated, growing developer, eager to learn and build
+<br>Name: Arjun Singh  <br>Username: arjunsingh0509  <br>Skills: Python, Java , C, HTML & CSS <br>Repositories: Python-Codes, Java-Beginner  <br><br>Requirements:<br>- Write a short and engaging introduction<br>- Include a “About Me” section<br>- Mention current learning goals (improving Java and Python skills)<br>- Add a “Tech Stack” section with icons or badges<br>- Include GitHub stats (use placeholders)<br>- Add a section for projects (briefly describe the two repos)<br>- Include a contact section (leave placeholders for email/LinkedIn)<br>- Keep it clean, modern, and beginner-friendly but professional<br>- Use emojis moderately for readability<br>- Format in proper Markdown<br><br>Tone: Motivated, growing developer, eager to learn and build
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@ Create a professional and attractive GitHub profile README for a developer with 
 ![](https://streak-stats.demolab.com/?user=arjunsingh0509&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arjunsingh0509&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arjunsingh0509&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -23,6 +21,3 @@ Create a professional and attractive GitHub profile README for a developer with 
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/arjunsingh0528) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
